@@ -1,6 +1,5 @@
 library(tidyverse)
 library(BTM)
-library(udpipe)
 library(tm)
 library(textplot)
 library(ggraph)
