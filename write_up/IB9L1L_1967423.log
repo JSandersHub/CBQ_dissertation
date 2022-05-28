@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  13 MAY 2022 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  28 MAY 2022 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -67,22 +67,42 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count91
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
 (./IB9L1L_1967423.aux)
 \openout1 = `IB9L1L_1967423.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 27.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -121,67 +141,149 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 30.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 30.
+(Font)              <6> on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 31.
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 30.
+(Font)              <9> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
+(Font)              <5> on input line 31.
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 32.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
- [1] [2]
-(./IB9L1L_1967423.bbl
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
+ [1]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+ [2] [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 67.
+ [4]
+[5]
+<k_search.pdf, id=29, 404.712pt x 263.16693pt>
+File: k_search.pdf Graphic file (type pdf)
+<use k_search.pdf>
+Package pdftex.def Info: k_search.pdf  used on input line 93.
+(pdftex.def)             Requested size: 404.71101pt x 263.16629pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7 <./k_search.pdf>] (./IB9L1L_1967423.bbl
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 8.
+ [8
+
+] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 \OT1/phv/b/n/10.95 URL: \OT1/phv/m/sl/10.95 https://www.project-syndicate.org/o
 npoint/central-banks-unvoncentional-monetary-
  []
 
-) [3
-
-] (./IB9L1L_1967423.aux) ) 
+[10]) [11] (./IB9L1L_1967423.aux) ) 
 Here is how much of TeX's memory you used:
- 1277 strings out of 492649
- 17786 string characters out of 6129622
- 87476 words of memory out of 5000000
- 5180 multiletter control sequences out of 15000+600000
- 26791 words of font info for 51 fonts, out of 8000000 for 9000
+ 2546 strings out of 492649
+ 37843 string characters out of 6129622
+ 112895 words of memory out of 5000000
+ 6390 multiletter control sequences out of 15000+600000
+ 29715 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,11n,32p,2032b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/b
-ase/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9
-.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on IB9L1L_1967423.pdf (4 pages, 63490 bytes).
+ 41i,11n,32p,2695b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/en
+c/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmtt9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
+fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on IB9L1L_1967423.pdf (12 pages, 111355 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

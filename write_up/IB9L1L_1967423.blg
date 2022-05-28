@@ -4,46 +4,47 @@ The top-level auxiliary file: IB9L1L_1967423.aux
 The style file: agsm.bst
 Database file #1: IB9L1L_bib.bib
 Warning--there's a number but no volume in gnan2020populism
+Warning--can't use both volume and number fields in tokle2005fed
 Warning--there's a number but no volume in turner12017did
-You've used 10 entries,
+You've used 39 entries,
             2909 wiz_defined-function locations,
-            702 strings with 6302 characters,
-and the built_in function-call counts, 24486 in all, are:
-= -- 3827
-> -- 309
-< -- 0
-+ -- 1695
-- -- 91
-* -- 2002
-:= -- 5231
-add.period$ -- 10
-call.type$ -- 10
-change.case$ -- 140
-chr.to.int$ -- 10
-cite$ -- 12
-duplicate$ -- 155
-empty$ -- 310
-format.name$ -- 123
-if$ -- 4325
+            876 strings with 12654 characters,
+and the built_in function-call counts, 179269 in all, are:
+= -- 29182
+> -- 2475
+< -- 1
++ -- 14028
+- -- 756
+* -- 15673
+:= -- 35699
+add.period$ -- 39
+call.type$ -- 39
+change.case$ -- 545
+chr.to.int$ -- 39
+cite$ -- 42
+duplicate$ -- 673
+empty$ -- 1351
+format.name$ -- 888
+if$ -- 32231
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 35
-num.names$ -- 100
-pop$ -- 40
+missing$ -- 40
+newline$ -- 122
+num.names$ -- 408
+pop$ -- 151
 preamble$ -- 1
-purify$ -- 150
+purify$ -- 585
 quote$ -- 0
-skip$ -- 127
+skip$ -- 584
 stack$ -- 0
-substring$ -- 5217
-swap$ -- 25
-text.length$ -- 140
+substring$ -- 41471
+swap$ -- 148
+text.length$ -- 547
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 40
-warning$ -- 2
-while$ -- 220
+type$ -- 154
+warning$ -- 3
+while$ -- 870
 width$ -- 0
-write$ -- 124
-(There were 2 warnings)
+write$ -- 519
+(There were 3 warnings)

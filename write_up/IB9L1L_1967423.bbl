@@ -1,12 +1,43 @@
 \begin{thebibliography}{xx}
 
+\harvarditem[Ahmed et~al.]{Ahmed, Vidal-Alaball, Downing, Segu{\'\i}
+  et~al.}{2020}{ahmed2020covid}
+Ahmed, W., Vidal-Alaball, J., Downing, J., Segu{\'\i}, F.~L. et~al.
+  \harvardyearleft 2020\harvardyearright , `Covid-19 and the 5g conspiracy
+  theory: social network analysis of twitter data', {\em Journal of medical
+  internet research} {\bf 22}(5),~e19458.
+
+\harvarditem{{Anti-Defamation League}}{2017}{league2017jewish}
+{Anti-Defamation League}  \harvardyearleft 2017\harvardyearright , `Jewish
+  `control' of the federal reserve: A classic anti-semitic myth', {\em
+  Anti-Defamation League} {\bf 8}.
+
 \harvarditem{Bergmann}{2020}{bergmann2020populism}
 Bergmann, E.  \harvardyearleft 2020\harvardyearright , `Populism and the
   politics of misinformation', {\em Safundi} {\bf 21}(3),~251--265.
 
+\harvarditem{Bergmann \harvardand\ Butter}{2020}{bergmann2020conspiracy}
+Bergmann, E. \harvardand\ Butter, M.  \harvardyearleft 2020\harvardyearright ,
+  {\em Conspiracy theory and populism}, Universit{\"a}t T{\"u}bingen.
+
 \harvarditem{Binder}{2021}{binder2021technopopulism}
 Binder, C.  \harvardyearleft 2021\harvardyearright , `Technopopulism and
   central banks', {\em Available at SSRN 3823456} .
+
+\harvarditem{Blei \harvardand\ Lafferty}{2006}{blei2006correlated}
+Blei, D. \harvardand\ Lafferty, J.  \harvardyearleft 2006\harvardyearright ,
+  `Correlated topic models', {\em Advances in neural information processing
+  systems} {\bf 18},~147.
+
+\harvarditem[Blei et~al.]{Blei, Ng \harvardand\ Jordan}{2003}{blei2003latent}
+Blei, D.~M., Ng, A.~Y. \harvardand\ Jordan, M.~I.  \harvardyearleft
+  2003\harvardyearright , `Latent dirichlet allocation', {\em Journal of
+  machine Learning research} {\bf 3}(Jan),~993--1022.
+
+\harvarditem{Bovet \harvardand\ Makse}{2019}{bovet2019influence}
+Bovet, A. \harvardand\ Makse, H.~A.  \harvardyearleft 2019\harvardyearright ,
+  `Influence of fake news in twitter during the 2016 us presidential election',
+  {\em Nature communications} {\bf 10}(1),~1--14.
 
 \harvarditem{Brubaker}{2020}{brubaker2020populism}
 Brubaker, R.  \harvardyearleft 2020\harvardyearright , `Populism and
@@ -17,23 +48,128 @@ Caiani, M. \harvardand\ Graziano, P.  \harvardyearleft 2019\harvardyearright ,
   `Understanding varieties of populism in times of crises', {\em West European
   Politics} {\bf 42}(6),~1141--1158.
 
+\harvarditem[Castanho~Silva et~al.]{Castanho~Silva, Vegetti \harvardand\
+  Littvay}{2017}{castanho2017elite}
+Castanho~Silva, B., Vegetti, F. \harvardand\ Littvay, L.  \harvardyearleft
+  2017\harvardyearright , `The elite is up to something: Exploring the relation
+  between populism and belief in conspiracy theories', {\em Swiss political
+  science review} {\bf 23}(4),~423--443.
+
+\harvarditem[Chen et~al.]{Chen, Wang, Zhang, Yan \harvardand\
+  Li}{2015}{chen2015user}
+Chen, W., Wang, J., Zhang, Y., Yan, H. \harvardand\ Li, X.  \harvardyearleft
+  2015\harvardyearright , User based aggregation for biterm topic model, {\em
+  in} `Proceedings of the 53rd Annual Meeting of the Association for
+  Computational Linguistics and the 7th International Joint Conference on
+  Natural Language Processing (Volume 2: Short Papers)', pp.~489--494.
+
+\harvarditem[Cinelli et~al.]{Cinelli, Morales, Galeazzi, Quattrociocchi
+  \harvardand\ Starnini}{2021}{cinelli2021echo}
+Cinelli, M., Morales, G. D.~F., Galeazzi, A., Quattrociocchi, W. \harvardand\
+  Starnini, M.  \harvardyearleft 2021\harvardyearright , `The echo chamber
+  effect on social media', {\em Proceedings of the National Academy of
+  Sciences} {\bf 118}(9).
+
+\harvarditem[Cinelli et~al.]{Cinelli, Quattrociocchi, Galeazzi, Valensise,
+  Brugnoli, Schmidt, Zola, Zollo \harvardand\ Scala}{2020}{cinelli2020covid}
+Cinelli, M., Quattrociocchi, W., Galeazzi, A., Valensise, C.~M., Brugnoli, E.,
+  Schmidt, A.~L., Zola, P., Zollo, F. \harvardand\ Scala, A.  \harvardyearleft
+  2020\harvardyearright , `The covid-19 social media infodemic', {\em
+  Scientific reports} {\bf 10}(1),~1--10.
+
 \harvarditem{De~Blasio \harvardand\ Sorice}{2018}{de2018populism}
 De~Blasio, E. \harvardand\ Sorice, M.  \harvardyearleft 2018\harvardyearright ,
   `Populism between direct democracy and the technological myth', {\em Palgrave
   Communications} {\bf 4}(1),~1--11.
+
+\harvarditem[Eberl et~al.]{Eberl, Huber \harvardand\
+  Greussing}{2021}{eberl2021populism}
+Eberl, J.-M., Huber, R.~A. \harvardand\ Greussing, E.  \harvardyearleft
+  2021\harvardyearright , `From populism to the “plandemic”: why populists
+  believe in covid-19 conspiracies', {\em Journal of Elections, Public Opinion
+  and Parties} {\bf 31}(sup1),~272--284.
 
 \harvarditem{Gnan \harvardand\ Masciandaro}{2020}{gnan2020populism}
 Gnan, E. \harvardand\ Masciandaro, D.  \harvardyearleft 2020\harvardyearright ,
   `Populism, economic policies and central banking: An overview', {\em SUERF
   Policy Note} (131).
 
+\harvarditem{Han \harvardand\ Kavuluru}{2016}{han2016exploratory}
+Han, S. \harvardand\ Kavuluru, R.  \harvardyearleft 2016\harvardyearright ,
+  Exploratory analysis of marketing and non-marketing e-cigarette themes on
+  twitter, {\em in} `International Conference on Social Informatics', Springer,
+  pp.~307--322.
+
+\harvarditem[Jackson et~al.]{Jackson, Gorman \harvardand\
+  Nakatsuka}{2021}{jackson2021qanon}
+Jackson, S., Gorman, B. \harvardand\ Nakatsuka, M.  \harvardyearleft
+  2021\harvardyearright , `Qanon on twitter: An overview', {\em Institute for
+  Data, Democracy \& Politics, The George Washington University, Washington,
+  DC. Accessed June} {\bf 21},~2021.
+
+\harvarditem{James}{2010}{james2010central}
+James, H.  \harvardyearleft 2010\harvardyearright , `Central banks: between
+  internationalisation and domestic political control', {\em BIS Working Paper}
+  .
+
+\harvarditem[Jamison et~al.]{Jamison, Broniatowski, Dredze, Sangraula, Smith
+  \harvardand\ Quinn}{2020}{jamison2020not}
+Jamison, A.~M., Broniatowski, D.~A., Dredze, M., Sangraula, A., Smith, M.~C.
+  \harvardand\ Quinn, S.~C.  \harvardyearleft 2020\harvardyearright , `Not just
+  conspiracy theories: Vaccine opponents and proponents add to the covid-19
+  ‘infodemic’on twitter', {\em Harvard Kennedy School Misinformation
+  Review} {\bf 1}.
+
+\harvarditem{J{\'o}nsson \harvardand\ Stolee}{2015}{jonsson2015evaluation}
+J{\'o}nsson, E. \harvardand\ Stolee, J.  \harvardyearleft 2015\harvardyearright
+  , `An evaluation of topic modelling techniques for twitter', {\em University
+  of Toronto} .
+
+\harvarditem[Kauk et~al.]{Kauk, Kreysa \harvardand\
+  Schweinberger}{2021}{kauk2021understanding}
+Kauk, J., Kreysa, H. \harvardand\ Schweinberger, S.~R.  \harvardyearleft
+  2021\harvardyearright , `Understanding and countering the spread of
+  conspiracy theories in social networks: Evidence from epidemiological models
+  of twitter data', {\em Plos one} {\bf 16}(8),~e0256179.
+
+\harvarditem[Khan et~al.]{Khan, Nasir, Nasim, Shabbir \harvardand\
+  Mahmood}{2021}{khan2021twitter}
+Khan, H.~U., Nasir, S., Nasim, K., Shabbir, D. \harvardand\ Mahmood, A.
+  \harvardyearleft 2021\harvardyearright , `Twitter trends: A ranking algorithm
+  analysis on real time data', {\em Expert Systems with Applications} {\bf
+  164},~113990.
+
 \harvarditem{Koch}{2021}{koch2021varieties}
 Koch, C.~M.  \harvardyearleft 2021\harvardyearright , `Varieties of populism
   and the challenges to global constitutionalism: Dangers, promises and
   implications', {\em Global Constitutionalism} {\bf 10}(3),~400--438.
 
+\harvarditem[Mackey et~al.]{Mackey, Kalyanam, Klugman, Kuzmenko \harvardand\
+  Gupta}{2018}{mackey2018solution}
+Mackey, T., Kalyanam, J., Klugman, J., Kuzmenko, E. \harvardand\ Gupta, R.
+  \harvardyearleft 2018\harvardyearright , `Solution to detect, classify, and
+  report illicit online marketing and sales of controlled substances via
+  twitter: using machine learning and web forensics to combat digital opioid
+  access', {\em Journal of medical Internet research} {\bf 20}(4),~e10029.
+
+\harvarditem[Mahl et~al.]{Mahl, Zeng \harvardand\
+  Sch{\"a}fer}{2021}{mahl2021nasa}
+Mahl, D., Zeng, J. \harvardand\ Sch{\"a}fer, M.~S.  \harvardyearleft
+  2021\harvardyearright , `From “nasa lies” to “reptilian eyes”:
+  Mapping communication about 10 conspiracy theories, their communities, and
+  main propagators on twitter', {\em Social Media+ Society} {\bf
+  7}(2),~20563051211017482.
+
+\harvarditem[Mimno et~al.]{Mimno, Wallach, Talley, Leenders \harvardand\
+  McCallum}{2011}{mimno2011optimizing}
+Mimno, D., Wallach, H.~M., Talley, E., Leenders, M. \harvardand\ McCallum, A.
+  \harvardyearleft 2011\harvardyearright , Optimizing semantic coherence in
+  topic models, {\em in} `Proceedings of the conference on empirical methods in
+  natural language processing', Association for Computational Linguistics,
+  pp.~262--272.
+
 \harvarditem{Rajan}{2017}{rajan2017central}
-Rajan, R.  \harvardyearleft 2017\harvardyearright , `Central banks’ year of
+Rajan, R.  \harvardyearleft 2017\harvardyearright , `Central banks' year of
   reckoning', {\em Project Syndicate} .
 \newline\harvardurl{https://www.project-syndicate.org/onpoint/central-banks-unvoncentional-monetary-policies-by-raghuram-rajan-2017-12}
 
@@ -42,9 +178,58 @@ Sanders, B.  \harvardyearleft 2015\harvardyearright , `Bernie sanders: To rein
   in wall street, fix the fed', {\em The New York Times} .
 \newline\harvardurl{https://www.nytimes.com/2015/12/23/opinion/bernie-sanders-to-rein-in-wall-street-fix-the-fed.html}
 
+\harvarditem{Sawyer}{2021}{sawyerpopulism}
+Sawyer, P.  \harvardyearleft 2021\harvardyearright , Populism and conspiracy
+  theories, {\em in} `Reflections on Emotions, Populism and Polarisation: HEPP2
+  CONFERENCE PROCEEDINGS', p.~111.
+
+\harvarditem[Schroeder et~al.]{Schroeder, Schaal, Filkukova, Pogorelov
+  \harvardand\ Langguth}{2021}{schroeder2021wico}
+Schroeder, D.~T., Schaal, F., Filkukova, P., Pogorelov, K. \harvardand\
+  Langguth, J.  \harvardyearleft 2021\harvardyearright , Wico graph: A labeled
+  dataset of twitter subgraphs based on conspiracy theory and 5g-corona
+  misinformation tweets., {\em in} `ICAART (2)', pp.~257--266.
+
+\harvarditem{Stecula \harvardand\ Pickup}{2021}{stecula2021populism}
+Stecula, D.~A. \harvardand\ Pickup, M.  \harvardyearleft 2021\harvardyearright
+  , `How populism and conservative media fuel conspiracy beliefs about covid-19
+  and what it means for covid-19 behaviors', {\em Research \& Politics} {\bf
+  8}(1),~2053168021993979.
+
+\harvarditem{Stephens}{2020}{stephens2020geospatial}
+Stephens, M.  \harvardyearleft 2020\harvardyearright , `A geospatial infodemic:
+  Mapping twitter conspiracy theories of covid-19', {\em Dialogues in Human
+  Geography} {\bf 10}(2),~276--281.
+
+\harvarditem{Tokle}{2005}{tokle2005fed}
+Tokle, R.  \harvardyearleft 2005\harvardyearright , Fed conspiracy used in
+  teaching money and banking, {\em in} `Allied Academies International
+  Conference. Academy for Economics and Economic Education. Proceedings',
+  Vol.~8, Jordan Whitney Enterprises, Inc, p.~33.
+
 \harvarditem{Turner}{2017}{turner12017did}
 Turner, P.  \harvardyearleft 2017\harvardyearright , `Did central banks cause
   the last financial crisis? will they cause the next?', {\em National
   Institute of Economic and Social Research Discussion Paper} (484).
+
+\harvarditem[Van~Prooijen et~al.]{Van~Prooijen, Krouwel \harvardand\
+  Pollet}{2015}{van2015political}
+Van~Prooijen, J.-W., Krouwel, A.~P. \harvardand\ Pollet, T.~V.
+  \harvardyearleft 2015\harvardyearright , `Political extremism predicts belief
+  in conspiracy theories', {\em Social Psychological and Personality Science}
+  {\bf 6}(5),~570--578.
+
+\harvarditem[Van~Prooijen et~al.]{Van~Prooijen, Rutjens \harvardand\
+  Brandt}{2018}{van2018populism}
+Van~Prooijen, J.-W., Rutjens, B. \harvardand\ Brandt, M.  \harvardyearleft
+  2018\harvardyearright , `Populism as political mentality underlying
+  conspiracy theories', {\em Belief systems and the perception of reality} {\bf
+  1},~79--96.
+
+\harvarditem[Yan et~al.]{Yan, Guo, Lan \harvardand\ Cheng}{2013}{yan2013biterm}
+Yan, X., Guo, J., Lan, Y. \harvardand\ Cheng, X.  \harvardyearleft
+  2013\harvardyearright , A biterm topic model for short texts, {\em in}
+  `Proceedings of the 22nd international conference on World Wide Web',
+  pp.~1445--1456.
 
 \end{thebibliography}
