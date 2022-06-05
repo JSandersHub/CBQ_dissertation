@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  28 MAY 2022 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  2 JUN 2022 13:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -231,43 +231,49 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
  [1]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
- [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 67.
- [4]
-[5]
-<k_search.pdf, id=29, 404.712pt x 263.16693pt>
+(Font)              <10.95> on input line 56.
+ [2]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 62.
+ [3] [4]
+[5] [6] [7]
+<k_search.pdf, id=36, 404.712pt x 263.16693pt>
 File: k_search.pdf Graphic file (type pdf)
 <use k_search.pdf>
-Package pdftex.def Info: k_search.pdf  used on input line 93.
+Package pdftex.def Info: k_search.pdf  used on input line 133.
 (pdftex.def)             Requested size: 404.71101pt x 263.16629pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] [7 <./k_search.pdf>] (./IB9L1L_1967423.bbl
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 8.
- [8
+[8]
+Overfull \hbox (18.45833pt too wide) in paragraph at lines 142--143
+\OT1/phv/m/n/10.95 There are sev-eral risks. For ex-am-ple, con-sider a phrase 
+with both con-spir-a-to-rial and non-conspiratorial
+ []
 
-] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[9 <./k_search.pdf>] [10] (./IB9L1L_1967423.bbl
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+ [11
+
+] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
 \OT1/phv/b/n/10.95 URL: \OT1/phv/m/sl/10.95 https://www.project-syndicate.org/o
 npoint/central-banks-unvoncentional-monetary-
  []
 
-[10]) [11] (./IB9L1L_1967423.aux) ) 
+[13]) [14] (./IB9L1L_1967423.aux) ) 
 Here is how much of TeX's memory you used:
- 2546 strings out of 492649
- 37843 string characters out of 6129622
- 112895 words of memory out of 5000000
- 6390 multiletter control sequences out of 15000+600000
+ 2561 strings out of 492649
+ 38194 string characters out of 6129622
+ 111048 words of memory out of 5000000
+ 6405 multiletter control sequences out of 15000+600000
  29715 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,32p,2695b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -280,10 +286,10 @@ m/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmtt9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on IB9L1L_1967423.pdf (12 pages, 111355 bytes).
+Output written on IB9L1L_1967423.pdf (15 pages, 122008 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

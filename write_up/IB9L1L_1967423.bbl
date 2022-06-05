@@ -1,11 +1,19 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Agur}{2018}{agur2018populism}
+Agur, I.  \harvardyearleft 2018\harvardyearright , `Populism and central bank
+  independence: comment', {\em Open Economies Review} {\bf 29}(3),~687--693.
+
 \harvarditem[Ahmed et~al.]{Ahmed, Vidal-Alaball, Downing, Segu{\'\i}
   et~al.}{2020}{ahmed2020covid}
 Ahmed, W., Vidal-Alaball, J., Downing, J., Segu{\'\i}, F.~L. et~al.
   \harvardyearleft 2020\harvardyearright , `Covid-19 and the 5g conspiracy
   theory: social network analysis of twitter data', {\em Journal of medical
   internet research} {\bf 22}(5),~e19458.
+
+\harvarditem{Ait~Jeddi}{2022}{scweet}
+Ait~Jeddi, Y. A.~J.  \harvardyearleft 2022\harvardyearright , `scweet'.
+\newline\harvardurl{https://github.com/Altimis/Scweet}
 
 \harvarditem{{Anti-Defamation League}}{2017}{league2017jewish}
 {Anti-Defamation League}  \harvardyearleft 2017\harvardyearright , `Jewish
@@ -94,6 +102,11 @@ Gnan, E. \harvardand\ Masciandaro, D.  \harvardyearleft 2020\harvardyearright ,
   `Populism, economic policies and central banking: An overview', {\em SUERF
   Policy Note} (131).
 
+\harvarditem{Goodhart \harvardand\ Lastra}{2018}{goodhart2018populism}
+Goodhart, C. \harvardand\ Lastra, R.  \harvardyearleft 2018\harvardyearright ,
+  `Populism and central bank independence', {\em Open Economies Review} {\bf
+  29}(1),~49--68.
+
 \harvarditem{Han \harvardand\ Kavuluru}{2016}{han2016exploratory}
 Han, S. \harvardand\ Kavuluru, R.  \harvardyearleft 2016\harvardyearright ,
   Exploratory analysis of marketing and non-marketing e-cigarette themes on
@@ -167,6 +180,12 @@ Mimno, D., Wallach, H.~M., Talley, E., Leenders, M. \harvardand\ McCallum, A.
   topic models, {\em in} `Proceedings of the conference on empirical methods in
   natural language processing', Association for Computational Linguistics,
   pp.~262--272.
+
+\harvarditem{Mumtaz \harvardand\ Theophilopoulou}{2017}{mumtaz2017impact}
+Mumtaz, H. \harvardand\ Theophilopoulou, A.  \harvardyearleft
+  2017\harvardyearright , `The impact of monetary policy on inequality in the
+  uk. an empirical analysis', {\em European Economic Review} {\bf
+  98},~410--423.
 
 \harvarditem{Rajan}{2017}{rajan2017central}
 Rajan, R.  \harvardyearleft 2017\harvardyearright , `Central banks' year of

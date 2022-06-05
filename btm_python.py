@@ -2,7 +2,6 @@ import re
 import string
 
 import pandas as pd
-import numpy as np
 import bitermplus as btm
 from statistics import mean
 import matplotlib.pyplot as plt
@@ -15,7 +14,7 @@ ps = PorterStemmer()
 stops = stopwords.words('english')
 
 # Load data
-data = pd.read_csv("/Users/jamiesanders/Desktop/CBQ_dissertation/data/sample30_checked.csv")
+data = pd.read_csv("/Users/jamiesanders/Desktop/CBQ_dissertation/data/sample36_checked.csv")
 
 # Remove reply stuff
 data['Embedded_text'] = data['Embedded_text'].apply(
