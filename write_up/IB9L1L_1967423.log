@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  2 JUN 2022 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.23)  6 JUN 2022 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,11 +242,11 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 62.
  [3] [4]
 [5] [6] [7]
-<k_search.pdf, id=36, 404.712pt x 263.16693pt>
+<k_search.pdf, id=36, 404.712pt x 266.97804pt>
 File: k_search.pdf Graphic file (type pdf)
 <use k_search.pdf>
 Package pdftex.def Info: k_search.pdf  used on input line 133.
-(pdftex.def)             Requested size: 404.71101pt x 263.16629pt.
+(pdftex.def)             Requested size: 404.71101pt x 266.97739pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -286,10 +286,10 @@ m/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmtt9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on IB9L1L_1967423.pdf (15 pages, 122008 bytes).
+Output written on IB9L1L_1967423.pdf (15 pages, 121847 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 121 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

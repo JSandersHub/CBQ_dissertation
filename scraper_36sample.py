@@ -68,12 +68,28 @@ full_sample['date'] = full_sample['Timestamp'].apply(lambda x: re.split('T', x)[
 print(full_sample['date'].nunique())
 # One too many...
 
+# Check days match
 full_sample['date'][~full_sample['date'].isin(sample_days)]
 
+# Check n.o. tweets per day
 freq_table = full_sample['date'].value_counts()
 # Looks reasonable
 
+# Remove BOE tweets
 full_sample = full_sample[full_sample['UserName'] != '@bankofengland']
 
+# Remove tweets where BOE not mentioned
+boe_regex = r"bank of england|Bank\bboe\b|bankofengland|bank of #england|#bank of england|#bank of #england"
+full_sample = full_sample.loc[full_sample['Embedded_text'].str.contains(boe_regex, case = False)]
+
+# Remove reply text
+full_sample['Embedded_text'] = full_sample['Embedded_text'].apply(
+    lambda x: re.sub(r"^Replying to\s+\n@.*\n", "", x))
+
+# Remove RT stuff
+full_sample['Embedded_text'] = full_sample['Embedded_text'].apply(
+    lambda x: re.sub(r"RT\s*\n.*\n:\s+", "", x))
+
+# Save
 full_sample.to_csv('/Users/jamiesanders/Desktop/CBQ_dissertation/data/sample36_checked.csv')
 

@@ -1,5 +1,4 @@
 import re
-import string
 
 import pandas as pd
 import bitermplus as btm
@@ -16,33 +15,20 @@ stops = stopwords.words('english')
 # Load data
 data = pd.read_csv("/Users/jamiesanders/Desktop/CBQ_dissertation/data/sample36_checked.csv")
 
-# Remove reply stuff
+# remove links
 data['Embedded_text'] = data['Embedded_text'].apply(
-    lambda x: re.sub(r"^Replying to\s+\n.*\n.*\n\s+", "", x))
-data['Embedded_text'] = data['Embedded_text'].apply(
-    lambda x: re.sub(r"^Replying to\s+\n@.*\n", "", x))
+    lambda x: re.sub(r'\b(http|www).*\b', '', x))
 
-# Remove RT stuff
+# Keep just characters
 data['Embedded_text'] = data['Embedded_text'].apply(
-    lambda x: re.sub(r"RT\s*\n.*\n:\s+", "", x))
+    lambda x: re.sub('[^a-zA-Z\s]+', '', x))
 
-# Remove punctuation
-data['Embedded_text'] = data['Embedded_text'].apply(
-    lambda x: x.translate(str.maketrans('', '', string.punctuation))
-    .lower())
-
-# Keep only that mention BOE
-data = data.loc[data['Embedded_text'].str.contains(r"bank of england|\bboe\b|bankofengland"), ]
-data = data.loc[data['UserName'] != "@bankofengland", ]
+# Keep just characters
+data['Embedded_text'] = data['Embedded_text'].apply(lambda x: x.lower())
 
 # Remove BOE
 data['Embedded_text'] = data['Embedded_text'].apply(
     lambda x: re.sub(r"bank of england|\bboe\b|bankofengland", "", x))
-data['Embedded_text'] = data['Embedded_text'].apply(
-    lambda x: re.sub(r"\b[’]*s\b|’", "", x))
-
-# Keep only >=10 words
-data = data.loc[[len(s.split()) >= 10 for s in data['Embedded_text']] , ]
 
 # Make list
 texts = data['Embedded_text'].to_list()
@@ -54,15 +40,20 @@ for text in texts:
     words = word_tokenize(text)
     
     # Stem and stopwords
-    filtered_words = [ps.stem(word) for word in words if word not in stops]
+    filtered_words = [ps.stem(word) for word in words if word not in stops and len(word) >= 2]
     
     # paste back together
     clean_text = " ".join(filtered_words)
 
     prepared_texts.append(clean_text)
 
+data["prepared_texts"] = prepared_texts
+
+# Keep only >=2 words (Yan, Xiaohui, et al. keeps all >1)
+data = data.loc[[len(s.split()) >= 2 for s in data["prepared_texts"]] , ]
+
 # prepare BTM files
-X, vocabulary, vocab_dict = btm.get_words_freqs(prepared_texts, stop_words=stops)
+X, vocabulary, vocab_dict = btm.get_words_freqs(data["prepared_texts"], stop_words=stops)
 docs_vec = btm.get_vectorized_docs(texts, vocabulary)
 biterms = btm.get_biterms(docs_vec)
 
@@ -86,16 +77,16 @@ plt.show()
 
 
 sem_co_near = []
-for k in range(15, 36, 2):
+for k in range(7, 26, 1):
 
     model = btm.BTM(
         X, vocabulary, seed=42, T=k, M=20, alpha=50/k, beta=0.01)
-    model.fit(biterms, iterations=100)
+    model.fit(biterms, iterations=150)
     
     sem_co_near.append(mean(model.coherence_))
 
 # plot
-plt.plot(range(15, 36, 2), sem_co_near, color='black')
+plt.plot(range(7, 26, 1), sem_co_near, color='black')
 plt.ylabel("Average semantic coherence")
 plt.xlabel("Topics")
 plt.locator_params(axis="both", integer=True, tight=True)
@@ -104,11 +95,14 @@ plt.show()
 
 fig, axs = plt.subplots(2, sharey=True)
 axs[0].plot(range(5, 105, 5), sem_co, color='black')
-axs[1].plot(range(15, 36, 2), sem_co_near, color='black')
+axs[1].plot(range(7, 26, 1), sem_co_near, color='black')
 axs[0].locator_params(axis="both", integer=True, tight=True)
 axs[1].locator_params(axis="both", integer=True, tight=True)
-axs[0].set_yticks(range(-710, -650, 15))
+axs[0].set_yticks(range(-730, -650, 15))
 fig.text(0, 0.5, 'Model average semantic coherence', va='center', rotation='vertical')
 axs[1].set_xlabel('Topics')
 plt.savefig('write_up/k_search.pdf',  bbox_inches='tight')
 plt.show()
+
+# Save data
+data.to_csv("/Users/jamiesanders/Desktop/CBQ_dissertation/data/sample_36_lemmatised.csv")
